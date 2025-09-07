@@ -1,0 +1,14 @@
+== FINAL REPORT ==
+
+• The average age of passengers was about 29.4 years,with a median age of 28.0 years.
+
+• By gender, 74.2% of women survived compared to only 18.9% of men. 
+
+• By class, survival rates were 63.0% for 1st class,47.3% for 2nd class, and 24.2% for 3rd class.
+
+• The highest survival rate was 96.8% for females in 1 class,while the lowest was 13.5% for males in 3 class.
+
+• In terms of passenger distribution, there were 57700 menand 31400 women.
+
+
+==================
